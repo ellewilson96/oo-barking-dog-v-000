@@ -23,4 +23,4 @@ end
 end
 
 
-fido = Dog.new("Fido", "woof!")
+fido = Dog.new("Fido")
