@@ -22,3 +22,6 @@ class Dog
   @bark = new_bark
 end
 end
+
+
+fido = Dog.new("Fido")
